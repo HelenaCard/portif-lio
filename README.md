@@ -10,7 +10,7 @@ Portifólio desafio dio - Portifólio publicado
 ## Formação acadêmica
 ![image](https://github.com/user-attachments/assets/09f6e512-45e0-4412-b068-cfc16cd8d87f)
 
-## Projetos destacados e Concte-se comigo
+## Projetos destacados e Conecte-se comigo
 ![image](https://github.com/user-attachments/assets/37ca3490-cfa0-4c24-b38b-b425b29322bd)
 
 
