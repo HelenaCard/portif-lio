@@ -1,5 +1,5 @@
-# Portifólio
-Portifólio desafio dio - Portifólio publicado 
+# Portfólio
+Portfólio desafio dio - Portfólio publicado 
 
 ## Início
 ![image](https://github.com/user-attachments/assets/a5991b54-7762-4e43-bcaf-ef20d9a3cb97)
