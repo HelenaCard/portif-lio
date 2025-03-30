@@ -15,5 +15,5 @@ Portifólio desafio dio - Portifólio publicado
 
 
 
-[Acesse aqui](https://abrir.link/zDNJx)
+[Acesse aqui]([https://abrir.link/zDNJx](https://596a2c3e-c482-4346-848e-1d6209b97f18-00-316n3xzi545xd.worf.replit.dev/))
 
